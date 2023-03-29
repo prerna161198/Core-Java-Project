@@ -1,9 +1,9 @@
 package JavaCode;
 
-public class SwitchExample {
 
-	public static void main(String[] args) {
-		package com.test.app;
+
+	
+		
 
 		import java.io.BufferedReader;
 		import java.io.IOException;
@@ -45,6 +45,6 @@ public class SwitchExample {
 
 		}
 
-	}
+	
 
-}
+
